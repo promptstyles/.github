@@ -6,7 +6,7 @@ AI changed how software gets written. Technical interviews did not keep up. Prom
 
 - 📜 **[Read the manifesto](https://promptstyles.org/)**: six principles for AI-assisted engineering and hiring.
 - 🧭 **[Explore the prompt styles](https://promptstyles.org/styles/)**: from vibe coding to context engineering, each with an example prompt, interview questions and sources.
-- 📋 **[Use the rubric](https://promptstyles.org/rubric/)**: 4 levels, 5 dimensions and a 65-minute interview script.
+- 📋 **[Use the rubric](https://promptstyles.org/rubric/)**: two readings for every candidate, the level with AI and the focus from business to tech, plus a 65-minute interview script.
 - ✍️ **[Sign with GitHub](https://github.com/promptstyles/promptstyles/issues/new?template=sign.yml)**: it takes a minute.
 
 🇧🇷 [Leia em português](https://promptstyles.org/pt/)
